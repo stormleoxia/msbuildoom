@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\PureNetStandard\PureNetStandard.csproj" />
+    <ProjectReference Include="..\Xamarin.Standard\Xamarin.Standard.csproj" />
+  </ItemGroup>
+
+</Project>
